@@ -1,0 +1,20 @@
+{
+	"name": "sammaye/yii2-outdated-browser",
+	"description": "A Yii2 widget for outdated-browser",
+	"keywords": ["yii2", "extension", "browser", "outdated-browser"],
+	"type": "yii2-extension",
+	"license": "BSD 3-Clause",
+	"authors": [
+		{
+			"name": "Sammaye",
+			"homepage": "http://sammaye.wordpress.com/"
+		}
+	],
+	"require": {
+		"yiisoft/yii2": "dev-master",
+		"bower-asset/outdated-browser": "1.1.0"
+	},
+	"autoload": {
+		"psr-4": {"sammaye\\outdatedBrowser\\": ""}
+	}
+}
