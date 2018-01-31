@@ -3,7 +3,7 @@
 	"description": "A Yii2 widget for outdated-browser",
 	"keywords": ["yii2", "extension", "browser", "outdated-browser"],
 	"type": "yii2-extension",
-	"license": "BSD 3-Clause",
+	"license": "BSD-3-Clause",
 	"authors": [
 		{
 			"name": "Sammaye",
